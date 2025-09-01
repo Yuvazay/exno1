@@ -68,4 +68,4 @@ pn
 
 
 # Result
-          <<include your Result here>>
+The data cleaning has been done to the datasets given.
