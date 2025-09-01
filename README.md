@@ -1,6 +1,6 @@
 # Exno:1
 Data Cleaning Process
-# Reg no :- 212223040071
+# Reg no :- 212223040251
 # Name :- Yuvashree S
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
